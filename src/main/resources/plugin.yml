@@ -1,0 +1,5 @@
+name: SpeedBuilders
+version: '${project.version}'
+main: mcup.gamemode.speedbuilders.SpeedBuilders
+api-version: 1.19
+depend: [Core]
